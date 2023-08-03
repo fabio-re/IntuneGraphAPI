@@ -5,7 +5,15 @@
 This repository was created to help people like me who had to fight to get the necessary info from Microsoft Intune :-P
 
 I use a app registration with appropriate authorizations to MS Intune (https://learn.microsoft.com/en-us/graph/api/resources/intune-graph-overview?view=graph-rest-1.0).
-With app registration, I generate a token to make graph api call with a HttpClient or use directly the GraphApiClient
+With app registration, I generate a token to make graph api call with a HttpClient or use directly the GraphApiClient.
+
+In configuration file have 3 properties to write :
+
+ "ConfigurationObj": {
+    "TenantId": "#YOUR TENANT ID#",
+    "ClientIdAppReg": "#YOUR APP ID#",
+    "ClientSecretAppReg": "#YOUR CLIENT SECRET ID#"
+  }, 
 
 ## Updates & Feedback
 
