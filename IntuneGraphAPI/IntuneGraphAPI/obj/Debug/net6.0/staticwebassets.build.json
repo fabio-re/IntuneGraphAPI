@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ad9KsjsnHWNL6lr3MDugPurdHevkiYdPAOc9nQXfSSY=",
+  "Source": "IntuneGraphAPI",
+  "BasePath": "_content/IntuneGraphAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
